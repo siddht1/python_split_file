@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of your code with the improvements:
-
-```
 import os
 import json
 import math
